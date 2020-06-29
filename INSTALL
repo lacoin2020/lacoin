@@ -1,0 +1,9 @@
+Building Lacoin
+
+See doc/readme-qt.rst for instructions on building Lacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Lacoin.
+
+See doc/build-*.txt for instructions on building lacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Lacoin.
